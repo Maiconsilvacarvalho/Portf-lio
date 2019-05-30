@@ -175,9 +175,7 @@ nav ul li a {
         float: left;
     }
    
-/*config sobre, quem eu sou,foto*/
-
-
+/*config foto do sobre*/
 
 
 .foto-minha{
@@ -189,6 +187,7 @@ nav ul li a {
    
 }
 
+/*Config seção Projeto*/
 ul#album-fotos{
     background-color: red;
     margin: 0 auto;
@@ -241,7 +240,7 @@ ul#album-fotos li#foto06{
 
 
 
-/*FOTOS DE  SERVIÇOS*/
+/*Config Seção  SERVIÇOS*/
 
 ul#album-fotos-servicos{
     background-color:cadetblue;
@@ -297,7 +296,7 @@ ul#album-fotos-servicos li#foto04{
     text-align: center;
 }
 
-/*formulario*/
+/*Config seção formulario*/
   .contact-section{
     background: url(bg.png) no-repeat center;
     background-size: cover;
