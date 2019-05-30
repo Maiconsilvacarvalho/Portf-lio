@@ -31,16 +31,13 @@ mysqli_close($conexao);
 <body>
       <div class="wrapper">
             <header>
-
                   <nav>
-
                         <div class="menu-icon">
                               <i class="fa fa-bars fa-2x"></i>
                         </div>
 
                         <div class="logo">
                               <a name="#Home">Maicon Carvalho</a>
-                              
                         </div>
 
                         <div class="menu">
@@ -54,9 +51,8 @@ mysqli_close($conexao);
                         </div>
                   </nav>
 
-            </header>
-            <section class="tamanho-loja">
-
+               </header>
+     <section class="tamanho-loja">
                   <ul id="album-fotos">
                         <div class="projetos">
                               <h1><a name="Projetos">Projetos</a></h1>
@@ -88,35 +84,31 @@ mysqli_close($conexao);
                   </ul>
 
 
-            </section>
+     </section>
             
-            <section>
-                  <ul id="album-fotos-servicos">
-                        <div class="projetos">
-                              <h1><a name="Serviços">Serviços</a></h1>
-                        </div>
-                        <li id="foto01">
+     <section>
+               <ul id="album-fotos-servicos">
+                       <div class="projetos">
+                           <h1><a name="Serviços">Serviços</a></h1>
+                       </div>
+                           <li id="foto01">
                               <spam>Criação de sites</spam>
-                        </li>
-                        <li id="foto02">
+                           </li>
+                           <li id="foto02">
                               <spam>Criação de Blogs</spam>
-                        </li>
-                        <li id="foto03">
+                           </li>
+                           <li id="foto03">
                               <spam>Criação de Sistemas</spam>
-                        </li>
-                        <li id="foto04">
+                           </li>
+                           <li id="foto04">
                               <spam>Edição de vídeo</spam>
-                        </li>
+                           </li>
 
-                  </ul>
+               </ul>
 
-            </section>
+    </section>
          
-      
-            
-
-
-            <script type="text/javascript">
+    <script type="text/javascript">
 
                   // Menu-toggle button
 
@@ -127,10 +119,8 @@ mysqli_close($conexao);
                   });
 
             
-            </script>
-
+    </script>
 
 
 </body>
-
 </html>
