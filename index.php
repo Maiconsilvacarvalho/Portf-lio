@@ -52,6 +52,7 @@
             
             <section class="footer">
             <h4>Maicon Carvalho - Desenvolvedor Front-End  | MaiconCarvalho@outlook.com</h4> 
-            </section>       
+            </section>   
+    
 </body>
 </html>
