@@ -25,7 +25,7 @@
                         <li><a href="index.html">Serviços</a></li>
                         <li><a href="index.html">Projetos</a></li>
                         <li><a href="sobre.html" target="_blank">Sobre</a></li>
-                        <li><a href="index.php" target="_blank">Contatos</a></li>
+                        <li><a href="index.php">Contatos</a></li>
                     </ul>
                 </div>
             </nav>
@@ -52,7 +52,6 @@
             
             <section class="footer">
             <h4>Maicon Carvalho - Desenvolvedor Front-End  | MaiconCarvalho@outlook.com</h4> 
-            </section>   
-    
+            </section>       
 </body>
 </html>
