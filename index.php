@@ -37,7 +37,7 @@
             
                 <div class="border"></div> 
                 
-                    <form class="contact-form" method="POST" action="">
+                    <form class="contact-form" method="POST" action="processa.php">
                 
                     <input type="text" class="contact-form-text" name="nome" maxlength="50" placeholder="Nome" autofocus/>
                 
